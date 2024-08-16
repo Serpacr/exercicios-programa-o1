@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args) {
+
+       double horatrabalho = 15;
+
+       int horastrabalhadas = 40;
+       int total;
+
+       total = (int) (horatrabalho*horastrabalhadas);
+
+        System.out.println(total);
+
+            }
+    }
